@@ -1,0 +1,14 @@
+#nav-title{
+    text-decoration: none;
+    display: flex;
+}
+
+.logo{
+    height: 5rem;
+    width: 5rem;
+
+}
+
+.title{
+    font-weight: bold;
+}
